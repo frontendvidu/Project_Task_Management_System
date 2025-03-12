@@ -1,24 +1,25 @@
 # Project_Task_Management_System
+
 A **Task Management System** allows users to create, update, and manage tasks efficiently.
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stack
 
-- **Next.js** – React framework for SSR & SSG  
-- **MySQL** – Relational database for storing tasks  
-- **Prisma** – ORM for database interactions  
-- **Radix UI** – Accessible UI components  
-- **Tailwind CSS** – Utility-first CSS framework  
-- **TypeScript** – Strongly-typed JavaScript  
+- **Next.js** – React framework for SSR & SSG
+- **MySQL** – Relational database for storing tasks
+- **Prisma** – ORM for database interactions
+- **Radix UI** – Accessible UI components
+- **Tailwind CSS** – Utility-first CSS framework
+- **TypeScript** – Strongly-typed JavaScript
 
-## 📌 Features 
+## 📌 Features
 
-- [ ] User Authentication  
-- [ ] Task Creation & Management  
-- [ ] Status Updates (To-Do, In Progress, Completed)  
-- [ ] Filtering & Sorting Tasks  
-- [ ] Responsive UI  
+- [ ] User Authentication
+- [ ] Task Creation & Management
+- [ ] Status Updates (To-Do, In Progress, Completed)
+- [ ] Filtering & Sorting Tasks
+- [ ] Responsive UI
 
-## 📂 Setup  
+## 📂 Setup
 
 1. Clone the repository
 2. Install dependencies
