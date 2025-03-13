@@ -1,1 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
 @import "tailwindcss";
+
+
+* {
+    font-family: "Plus Jakarta Sans", sans-serif;
+
+}
+
+.task-heading {
+    color: #1e40af; /* Custom Blue */
+    line-height: 150%; /* Extra Loose */
+    letter-spacing: -2%; /* Widest Plus */
+    font-size: 16px;
+  }
+
+  .letter-spacing-2 {
+    letter-spacing: -2%;
+  }
+
+  .paraUIUX {
+    color: #54577A;
+  }

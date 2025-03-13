@@ -3,8 +3,8 @@ import React from 'react'
 
 const SideBar = () => {
   return (
-    <div className='flex flex-col justify-start content-center bg-amber-300 w-[252px] h-[100vh]'>
-      <TabNav.Root className="flex flex-col space-y-2 bg-amber-700">
+    <div className='flex flex-col justify-start content-center bg-white w-[252px] min-h-full'>
+      <TabNav.Root className="flex flex-col space-y-2 bg-white">
         <TabNav.Link href='#'>LOGO</TabNav.Link>
         <TabNav.Link href='#'>Overview</TabNav.Link>
         <TabNav.Link href='#'>Tasks</TabNav.Link>
