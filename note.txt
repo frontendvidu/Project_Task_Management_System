@@ -1,0 +1,5 @@
+next.js app
+    prisma installed > setup done > model?
+    tailwind installed > setup done
+    typescript installed > setup done
+    radix ui installed
